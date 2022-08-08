@@ -1,0 +1,1474 @@
+1659611852552	geckodriver	INFO	Listening on 127.0.0.1:52099
+1659611855632	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileqCmtxq"
+1659611856606	Marionette	INFO	Marionette enabled
+1659611856618	Marionette	INFO	Listening on port 52109
+Read port: 52109
+1659611856809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileqCmtxq\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1659611877845	Marionette	INFO	Stopped listening on port 52109
+1659620987586	geckodriver	INFO	Listening on 127.0.0.1:54124
+1659620990645	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilei16sp8"
+1659620991296	Marionette	INFO	Marionette enabled
+1659620991303	Marionette	INFO	Listening on port 54135
+Read port: 54135
+1659620991427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilei16sp8\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659620996065	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659620999466	Marionette	INFO	Stopped listening on port 54135
+1659623229974	geckodriver	INFO	Listening on 127.0.0.1:55614
+1659623233039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileLldafU"
+1659623233643	Marionette	INFO	Marionette enabled
+1659623233650	Marionette	INFO	Listening on port 55624
+Read port: 55624
+1659623233917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileLldafU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659623237958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659623306533	Marionette	INFO	Stopped listening on port 55624
+1659623566795	geckodriver	INFO	Listening on 127.0.0.1:55808
+1659623569856	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilewKwZLS"
+1659623570427	Marionette	INFO	Marionette enabled
+1659623570433	Marionette	INFO	Listening on port 55819
+Read port: 55819
+1659623570694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilewKwZLS\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659623574720	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659625843518	Marionette	INFO	Stopped listening on port 55819
+[Parent 16952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileN47L4h"
+1659624823804	Marionette	INFO	Marionette enabled
+1659624823810	Marionette	INFO	Listening on port 56709
+Read port: 56709
+1659624823934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileN47L4h\\search.json.mozlz4", (void 0)))
+1659624833064	Marionette	INFO	Stopped listening on port 56709
+1659624877459	geckodriver	INFO	Listening on 127.0.0.1:56759
+1659624880506	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile2jhwyH"
+1659624881051	Marionette	INFO	Marionette enabled
+1659624881057	Marionette	INFO	Listening on port 56770
+Read port: 56770
+1659624881166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile2jhwyH\\search.json.mozlz4", (void 0)))
+1659624888822	Marionette	INFO	Stopped listening on port 56770
+1659624912308	geckodriver	INFO	Listening on 127.0.0.1:56803
+1659624915368	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilekxjAlN"
+1659624915907	Marionette	INFO	Marionette enabled
+1659624915914	Marionette	INFO	Listening on port 56815
+Read port: 56815
+1659624916023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilekxjAlN\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659624920592	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659624922171	Marionette	INFO	Stopped listening on port 56815
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1659625281282	geckodriver	INFO	Listening on 127.0.0.1:57022
+1659625284327	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofiletTJ9EN"
+1659625284870	Marionette	INFO	Marionette enabled
+1659625284876	Marionette	INFO	Listening on port 57033
+Read port: 57033
+1659625284989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofiletTJ9EN\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659625289184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659625844903	Marionette	INFO	Stopped listening on port 57033
+9625313704	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile2TmX0V"
+1659625314254	Marionette	INFO	Marionette enabled
+1659625314261	Marionette	INFO	Listening on port 57095
+Read port: 57095
+1659625314373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile2TmX0V\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659625318416	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659625321583	Marionette	INFO	Stopped listening on port 57095
+1659625349701	geckodriver	INFO	Listening on 127.0.0.1:57145
+1659625352776	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileYtxwMZ"
+1659625353328	Marionette	INFO	Marionette enabled
+1659625353335	Marionette	INFO	Listening on port 57157
+Read port: 57157
+1659625353461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileYtxwMZ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659625357343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659625365462	Marionette	INFO	Stopped listening on port 57157
+1659625726984	geckodriver	INFO	Listening on 127.0.0.1:57447
+1659625730039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileAzKczE"
+1659625730627	Marionette	INFO	Marionette enabled
+1659625730634	Marionette	INFO	Listening on port 57459
+Read port: 57459
+1659625730859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileAzKczE\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659625735522	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659625744916	Marionette	INFO	Stopped listening on port 57459
+1659625817280	geckodriver	INFO	Listening on 127.0.0.1:57542
+1659625820368	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileIXLUTQ"
+1659625820901	Marionette	INFO	Marionette enabled
+1659625820907	Marionette	INFO	Listening on port 57553
+Read port: 57553
+1659625821021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileIXLUTQ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659625825247	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659625840095	Marionette	INFO	Stopped listening on port 57553
+1659625919920	geckodriver	INFO	Listening on 127.0.0.1:57645
+1659625922974	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileKXiJeo"
+1659625923512	Marionette	INFO	Marionette enabled
+1659625923518	Marionette	INFO	Listening on port 57657
+Read port: 57657
+1659625923627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileKXiJeo\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659625927865	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659625936096	Marionette	INFO	Stopped listening on port 57657
+1659629534319	geckodriver	INFO	Listening on 127.0.0.1:59518
+1659629537413	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileIHlpau"
+1659629538521	Marionette	INFO	Marionette enabled
+1659629538531	Marionette	INFO	Listening on port 59530
+Read port: 59530
+1659629538738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileIHlpau\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659629545110	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659629556075	Marionette	INFO	Stopped listening on port 59530
+1659629666850	geckodriver	INFO	Listening on 127.0.0.1:59645
+1659629669905	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile0wDTjm"
+1659629670785	Marionette	INFO	Marionette enabled
+1659629670795	Marionette	INFO	Listening on port 59657
+Read port: 59657
+1659629670994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile0wDTjm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659629678912	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659629696003	Marionette	INFO	Stopped listening on port 59657
+1659629840361	geckodriver	INFO	Listening on 127.0.0.1:59812
+1659629843432	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilezSpG49"
+1659629844283	Marionette	INFO	Marionette enabled
+1659629844291	Marionette	INFO	Listening on port 59824
+Read port: 59824
+1659629844464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilezSpG49\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659629849981	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630854839	Marionette	INFO	Stopped listening on port 59824
+9630140236	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileJmwdPg"
+1659630141137	Marionette	INFO	Marionette enabled
+1659630141147	Marionette	INFO	Listening on port 60045
+Read port: 60045
+1659630141343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileJmwdPg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630148429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630849208	Marionette	INFO	Stopped listening on port 60045
+9630315492	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileQvi9Mc"
+1659630316369	Marionette	INFO	Marionette enabled
+1659630316378	Marionette	INFO	Listening on port 60196
+Read port: 60196
+1659630316566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileQvi9Mc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630323085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630847469	Marionette	INFO	Stopped listening on port 60196
+9630536739	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileEUDomV"
+1659630537661	Marionette	INFO	Marionette enabled
+1659630537670	Marionette	INFO	Listening on port 60371
+Read port: 60371
+1659630537872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileEUDomV\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630544187	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659630551225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659630851596	Marionette	INFO	Stopped listening on port 60371
+te enabled
+1659630736728	Marionette	INFO	Listening on port 60548
+Read port: 60548
+1659630736926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile4y78Jv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630743435	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659630750863	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659633897426	Marionette	INFO	Stopped listening on port 60548
+te enabled
+1659632308392	Marionette	INFO	Listening on port 61479
+Read port: 61479
+1659632308568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilehFCPP7\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659632314149	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659632325816	Marionette	INFO	Stopped listening on port 61479
+1659632487528	geckodriver	INFO	Listening on 127.0.0.1:61550
+1659632490596	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilerFsMfU"
+1659632491429	Marionette	INFO	Marionette enabled
+1659632491437	Marionette	INFO	Listening on port 61561
+Read port: 61561
+1659632491607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilerFsMfU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659632497309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659632504696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659632511438	Marionette	INFO	Stopped listening on port 61561
+1659633394244	geckodriver	INFO	Listening on 127.0.0.1:61812
+1659633397295	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileHFaov0"
+1659633398150	Marionette	INFO	Marionette enabled
+1659633398159	Marionette	INFO	Listening on port 61822
+Read port: 61822
+1659633398335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileHFaov0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633403940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633412384	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659633534048	Marionette	INFO	Stopped listening on port 61822
+te enabled
+1659633502624	Marionette	INFO	Listening on port 61884
+Read port: 61884
+1659633502835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile8uBYya\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633508054	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633515249	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659633529133	Marionette	INFO	Stopped listening on port 61884
+1659633856896	geckodriver	INFO	Listening on 127.0.0.1:61944
+1659633859948	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilexM58xc"
+1659633860808	Marionette	INFO	Marionette enabled
+1659633860817	Marionette	INFO	Listening on port 61954
+Read port: 61954
+1659633860994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilexM58xc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633865934	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633873290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659633881959	Marionette	INFO	Stopped listening on port 61954
+1659633899648	geckodriver	INFO	Listening on 127.0.0.1:61995
+1659633902702	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilecnkLoU"
+1659633903564	Marionette	INFO	Marionette enabled
+1659633903572	Marionette	INFO	Listening on port 62005
+Read port: 62005
+1659633903748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilecnkLoU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633909141	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659633916492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1678:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659634273948	Marionette	INFO	Stopped listening on port 62005
+[Parent 12300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileyblGHE\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634071074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634078354	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659634273971	Marionette	INFO	Stopped listening on port 62076
+ing back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634210412	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659634273832	Marionette	INFO	Stopped listening on port 62130
+[Parent 19192, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1659634283444	geckodriver	INFO	Listening on 127.0.0.1:62183
+1659634286503	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileovbjmx"
+1659634287341	Marionette	INFO	Marionette enabled
+1659634287350	Marionette	INFO	Listening on port 62193
+Read port: 62193
+1659634287519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileovbjmx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634292782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634300363	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659634507128	Marionette	INFO	Stopped listening on port 62193
+1659634513948	geckodriver	INFO	Listening on 127.0.0.1:62253
+1659634517015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileGGX5Lv"
+1659634517845	Marionette	INFO	Marionette enabled
+1659634517854	Marionette	INFO	Listening on port 62263
+Read port: 62263
+1659634518025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileGGX5Lv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634523308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634530593	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659634613121	Marionette	INFO	Stopped listening on port 62263
+1659634615676	geckodriver	INFO	Listening on 127.0.0.1:62346
+1659634618717	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileZTDLtR"
+1659634619577	Marionette	INFO	Marionette enabled
+1659634619585	Marionette	INFO	Listening on port 62356
+Read port: 62356
+1659634619761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileZTDLtR\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634626017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634633222	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659634661199	Marionette	INFO	Stopped listening on port 62356
+9634659530	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileYaav5A"
+1659634660436	Marionette	INFO	Marionette enabled
+1659634660449	Marionette	INFO	Listening on port 62402
+Read port: 62402
+1659634660652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileYaav5A\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634666781	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659634670942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659634671743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634674080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659634676371	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659634857261	Marionette	INFO	Stopped listening on port 62402
+1659634876743	geckodriver	INFO	Listening on 127.0.0.1:62488
+1659634879775	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilelQUpwr"
+1659634880603	Marionette	INFO	Marionette enabled
+1659634880611	Marionette	INFO	Listening on port 62498
+Read port: 62498
+1659634880784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilelQUpwr\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634886129	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659634893258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659635298753	Marionette	INFO	Stopped listening on port 62498
+te enabled
+1659635011470	Marionette	INFO	Listening on port 62562
+Read port: 62562
+1659635011652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilenVnB1Z\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635017888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635024972	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659635298593	Marionette	INFO	Stopped listening on port 62562
+1659635317037	geckodriver	INFO	Listening on 127.0.0.1:62697
+1659635320114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileBUb6Lc"
+1659635320975	Marionette	INFO	Marionette enabled
+1659635320984	Marionette	INFO	Listening on port 62713
+Read port: 62713
+1659635321161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileBUb6Lc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635326688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635333724	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659635680987	Marionette	INFO	Stopped listening on port 62713
+[Parent 18044, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18044, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659635687852	geckodriver	INFO	Listening on 127.0.0.1:62786
+1659635690917	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile5HTLVQ"
+1659635691743	Marionette	INFO	Marionette enabled
+1659635691751	Marionette	INFO	Listening on port 62796
+Read port: 62796
+1659635691926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile5HTLVQ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635696959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635704905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659635845891	Marionette	INFO	Stopped listening on port 62796
+te enabled
+1659635805927	Marionette	INFO	Listening on port 62854
+Read port: 62854
+1659635806102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilemDp5X0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635811494	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635818949	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659635845770	Marionette	INFO	Stopped listening on port 62854
+9635843007	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilex4z0gx"
+1659635843936	Marionette	INFO	Marionette enabled
+1659635843945	Marionette	INFO	Listening on port 62901
+Read port: 62901
+1659635844198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659635846682	Marionette	INFO	Stopped listening on port 62901
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2273: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1659635849819	geckodriver	INFO	Listening on 127.0.0.1:62909
+1659635853589	geckodriver	INFO	Listening on 127.0.0.1:62917
+1659635856604	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileUXSLft"
+1659635857457	Marionette	INFO	Marionette enabled
+1659635857465	Marionette	INFO	Listening on port 62927
+Read port: 62927
+1659635857644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileUXSLft\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635863007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659635870117	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659692537149	Marionette	INFO	Stopped listening on port 62927
+1659693499328	geckodriver	INFO	Listening on 127.0.0.1:55520
+1659693502490	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile0WfEtw"
+1659693503449	Marionette	INFO	Marionette enabled
+1659693503458	Marionette	INFO	Listening on port 55530
+Read port: 55530
+1659693503632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile0WfEtw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659693509752	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659693806847	Marionette	INFO	Stopped listening on port 55530
+9693805426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileIVYN0v"
+1659693806282	Marionette	INFO	Marionette enabled
+1659693806291	Marionette	INFO	Listening on port 55609
+Read port: 55609
+1659693806470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileIVYN0v\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659693812000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659693829298	Marionette	INFO	Stopped listening on port 55609
+1659694191077	geckodriver	INFO	Listening on 127.0.0.1:55681
+1659694194147	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileHMlvLd"
+1659694194997	Marionette	INFO	Marionette enabled
+1659694195006	Marionette	INFO	Listening on port 55695
+Read port: 55695
+1659694195175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileHMlvLd\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694201339	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694207147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659694216302	Marionette	INFO	Stopped listening on port 55695
+1659694239193	geckodriver	INFO	Listening on 127.0.0.1:55731
+1659694242268	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilen0Ix9N"
+1659694243111	Marionette	INFO	Marionette enabled
+1659694243120	Marionette	INFO	Listening on port 55743
+Read port: 55743
+1659694243299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilen0Ix9N\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694248445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659694259441	Marionette	INFO	Stopped listening on port 55743
+1659694380181	geckodriver	INFO	Listening on 127.0.0.1:55806
+1659694383271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile5vdOdI"
+1659694384112	Marionette	INFO	Marionette enabled
+1659694384121	Marionette	INFO	Listening on port 55816
+Read port: 55816
+1659694384291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile5vdOdI\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694389504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694400954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659694407506	Marionette	INFO	Stopped listening on port 55816
+1659694482573	geckodriver	INFO	Listening on 127.0.0.1:55866
+1659694485649	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileR5B1Dw"
+1659694486484	Marionette	INFO	Marionette enabled
+1659694486493	Marionette	INFO	Listening on port 55877
+Read port: 55877
+1659694486666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileR5B1Dw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694492235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659694504016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659696829552	Marionette	INFO	Stopped listening on port 55877
+1659697843947	geckodriver	INFO	Listening on 127.0.0.1:56999
+1659697847066	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileUSWZF0"
+1659697848245	Marionette	INFO	Marionette enabled
+1659697848256	Marionette	INFO	Listening on port 57017
+Read port: 57017
+1659697848450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileUSWZF0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659697854032	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659697865712	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659697905096	Marionette	INFO	Stopped listening on port 57017
+1659697907782	geckodriver	INFO	Listening on 127.0.0.1:57097
+1659697910853	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilecyXMFU"
+1659697911696	Marionette	INFO	Marionette enabled
+1659697911705	Marionette	INFO	Listening on port 57109
+Read port: 57109
+1659697911876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilecyXMFU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659697917326	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659697929100	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659697968757	Marionette	INFO	Stopped listening on port 57109
+1659711246354	geckodriver	INFO	Listening on 127.0.0.1:60846
+1659711249443	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilevG3KRy"
+1659711250655	Marionette	INFO	Marionette enabled
+1659711250664	Marionette	INFO	Listening on port 60856
+Read port: 60856
+1659711250895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilevG3KRy\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711256814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711257513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659711282951	Marionette	INFO	Stopped listening on port 60856
+1659711291517	geckodriver	INFO	Listening on 127.0.0.1:60897
+1659711294580	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilenr1MTQ"
+1659711295433	Marionette	INFO	Marionette enabled
+1659711295442	Marionette	INFO	Listening on port 60907
+Read port: 60907
+1659711295613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilenr1MTQ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711301155	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711301811	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659711315053	Marionette	INFO	Stopped listening on port 60907
+1659711400242	geckodriver	INFO	Listening on 127.0.0.1:60950
+1659711403270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilee0cAcf"
+1659711404124	Marionette	INFO	Marionette enabled
+1659711404132	Marionette	INFO	Listening on port 60960
+Read port: 60960
+1659711404303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilee0cAcf\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711409577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711410290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711428627	Marionette	INFO	Stopped listening on port 60960
+1659711481628	geckodriver	INFO	Listening on 127.0.0.1:61002
+1659711484688	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilebbTLu0"
+1659711485536	Marionette	INFO	Marionette enabled
+1659711485545	Marionette	INFO	Listening on port 61012
+Read port: 61012
+1659711485714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilebbTLu0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711491571	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711492218	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659711511315	Marionette	INFO	Stopped listening on port 61012
+1659711544419	geckodriver	INFO	Listening on 127.0.0.1:61049
+1659711547458	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilelNkiyX"
+1659711548334	Marionette	INFO	Marionette enabled
+1659711548342	Marionette	INFO	Listening on port 61060
+Read port: 61060
+1659711548521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilelNkiyX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711554088	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711554828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659711562136	Marionette	INFO	Stopped listening on port 61060
+1659711766031	geckodriver	INFO	Listening on 127.0.0.1:61104
+1659711769084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilesbQO3F"
+1659711769947	Marionette	INFO	Marionette enabled
+1659711769956	Marionette	INFO	Listening on port 61114
+Read port: 61114
+1659711770132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilesbQO3F\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711775432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711776114	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711787179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659711856276	Marionette	INFO	Stopped listening on port 61114
+1659711907477	geckodriver	INFO	Listening on 127.0.0.1:61170
+1659711910530	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileMdKDxj"
+1659711911376	Marionette	INFO	Marionette enabled
+1659711911385	Marionette	INFO	Listening on port 61182
+Read port: 61182
+1659711911558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileMdKDxj\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711916690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711917489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659711928875	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659711943580	Marionette	INFO	Stopped listening on port 61182
+1659712089577	geckodriver	INFO	Listening on 127.0.0.1:61259
+1659712092610	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilevGHYrg"
+1659712093444	Marionette	INFO	Marionette enabled
+1659712093453	Marionette	INFO	Listening on port 61269
+Read port: 61269
+1659712093625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilevGHYrg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712099383	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712100087	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712114169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712161242	Marionette	INFO	Stopped listening on port 61269
+1659712162613	geckodriver	INFO	Listening on 127.0.0.1:61315
+1659712165687	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileVLlqA2"
+1659712166540	Marionette	INFO	Marionette enabled
+1659712166549	Marionette	INFO	Listening on port 61326
+Read port: 61326
+1659712166719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileVLlqA2\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712172192	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712172925	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712184290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712408731	Marionette	INFO	Stopped listening on port 61326
+9712321099	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilewNMCM4"
+1659712321973	Marionette	INFO	Marionette enabled
+1659712321983	Marionette	INFO	Listening on port 61395
+Read port: 61395
+1659712322160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilewNMCM4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712328353	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712330019	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659712347673	Marionette	INFO	Stopped listening on port 61395
+1659712356180	geckodriver	INFO	Listening on 127.0.0.1:61431
+1659712359237	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileuybKL1"
+1659712360081	Marionette	INFO	Marionette enabled
+1659712360090	Marionette	INFO	Listening on port 61441
+Read port: 61441
+1659712360398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileuybKL1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712365799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712366642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712378761	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712392942	Marionette	INFO	Stopped listening on port 61441
+1659712410843	geckodriver	INFO	Listening on 127.0.0.1:61488
+1659712413902	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileEGde1m"
+1659712414751	Marionette	INFO	Marionette enabled
+1659712414760	Marionette	INFO	Listening on port 61498
+Read port: 61498
+1659712414951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileEGde1m\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712420204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712420965	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712432696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712456838	Marionette	INFO	Stopped listening on port 61498
+1659712495334	geckodriver	INFO	Listening on 127.0.0.1:61543
+1659712498360	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileQQYwMA"
+1659712499192	Marionette	INFO	Marionette enabled
+1659712499201	Marionette	INFO	Listening on port 61553
+Read port: 61553
+1659712499379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileQQYwMA\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712504684	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712505507	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712516664	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712533235	Marionette	INFO	Stopped listening on port 61553
+1659712674277	geckodriver	INFO	Listening on 127.0.0.1:61609
+1659712677321	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileNEd8DT"
+1659712678207	Marionette	INFO	Marionette enabled
+1659712678216	Marionette	INFO	Listening on port 61619
+Read port: 61619
+1659712678451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileNEd8DT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712686636	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659713000695	Marionette	INFO	Stopped listening on port 61619
+9712753601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileLkanE0"
+1659712754466	Marionette	INFO	Marionette enabled
+1659712754474	Marionette	INFO	Listening on port 61675
+Read port: 61675
+1659712754657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileLkanE0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712759871	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712760506	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712772718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712778067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659712918100	geckodriver	INFO	Listening on 127.0.0.1:61754
+1659712921110	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile6seOO6"
+1659712921970	Marionette	INFO	Marionette enabled
+1659712921991	Marionette	INFO	Listening on port 61767
+Read port: 61767
+1659712922210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile6seOO6\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712927847	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712928597	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659712939993	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659712956260	Marionette	INFO	Stopped listening on port 61767
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659713198388	geckodriver	INFO	Listening on 127.0.0.1:61831
+1659713201452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileyVQYP2"
+1659713202301	Marionette	INFO	Marionette enabled
+1659713202309	Marionette	INFO	Listening on port 61841
+Read port: 61841
+1659713202481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileyVQYP2\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713208066	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713208824	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713220229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659713231246	Marionette	INFO	Stopped listening on port 61841
+1659713262964	geckodriver	INFO	Listening on 127.0.0.1:61889
+1659713266039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile5KNOhf"
+1659713266880	Marionette	INFO	Marionette enabled
+1659713266888	Marionette	INFO	Listening on port 61899
+Read port: 61899
+1659713267064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile5KNOhf\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713273048	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713273759	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713284947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659713417965	Marionette	INFO	Stopped listening on port 61899
+1659713420650	geckodriver	INFO	Listening on 127.0.0.1:61958
+1659713423730	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileNYJsaG"
+1659713424605	Marionette	INFO	Marionette enabled
+1659713424614	Marionette	INFO	Listening on port 61968
+Read port: 61968
+1659713424846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileNYJsaG\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713430788	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713431685	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713442902	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659713472795	Marionette	INFO	Stopped listening on port 61968
+1659713495266	geckodriver	INFO	Listening on 127.0.0.1:62018
+1659713498316	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile6sJyYk"
+1659713499154	Marionette	INFO	Marionette enabled
+1659713499163	Marionette	INFO	Listening on port 62028
+Read port: 62028
+1659713499331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile6sJyYk\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713504739	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713505539	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713517027	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659713569946	Marionette	INFO	Stopped listening on port 62028
+1659713583530	geckodriver	INFO	Listening on 127.0.0.1:62080
+1659713586614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileMT1S6m"
+1659713587447	Marionette	INFO	Marionette enabled
+1659713587457	Marionette	INFO	Listening on port 62090
+Read port: 62090
+1659713587631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileMT1S6m\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713594228	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713595038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713607962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659713692608	Marionette	INFO	Stopped listening on port 62090
+1659713695612	geckodriver	INFO	Listening on 127.0.0.1:62154
+1659713698663	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile7NJdoN"
+1659713699497	Marionette	INFO	Marionette enabled
+1659713699506	Marionette	INFO	Listening on port 62164
+Read port: 62164
+1659713699678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile7NJdoN\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713704682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713705377	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659713736773	Marionette	INFO	Stopped listening on port 62164
+1659713775014	geckodriver	INFO	Listening on 127.0.0.1:62204
+1659713778053	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilezovpKz"
+1659713778890	Marionette	INFO	Marionette enabled
+1659713778899	Marionette	INFO	Listening on port 62214
+Read port: 62214
+1659713779069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilezovpKz\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713784525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713785227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713796454	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659715063362	Marionette	INFO	Stopped listening on port 62214
+9713852915	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileHRrHLj"
+1659713853755	Marionette	INFO	Marionette enabled
+1659713853764	Marionette	INFO	Listening on port 62278
+Read port: 62278
+1659713853936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileHRrHLj\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713859089	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713859772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659713870782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659714880911	geckodriver	INFO	Listening on 127.0.0.1:62438
+1659714883955	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileNMCxcT"
+1659714884886	Marionette	INFO	Marionette enabled
+1659714884895	Marionette	INFO	Listening on port 62448
+Read port: 62448
+1659714885091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileNMCxcT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659714890738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659714891067	Marionette	INFO	Stopped listening on port 62448
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659714932082	geckodriver	INFO	Listening on 127.0.0.1:62477
+1659714935155	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilePlNEwR"
+1659714935983	Marionette	INFO	Marionette enabled
+1659714935992	Marionette	INFO	Listening on port 62487
+Read port: 62487
+1659714936161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofilePlNEwR\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659714941643	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659714942355	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659714954008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659714967143	Marionette	INFO	Stopped listening on port 62487
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659716048320	geckodriver	INFO	Listening on 127.0.0.1:62645
+1659716051380	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile2GeOdS"
+1659716052208	Marionette	INFO	Marionette enabled
+1659716052217	Marionette	INFO	Listening on port 62657
+Read port: 62657
+1659716052389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile2GeOdS\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659716058151	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716058824	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716070212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659716387313	Marionette	INFO	Stopped listening on port 62657
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+te enabled
+1659716194814	Marionette	INFO	Listening on port 62741
+Read port: 62741
+1659716194988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofileStmA56\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716202442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716213206	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
+1659716218496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659716389406	geckodriver	INFO	Listening on 127.0.0.1:62802
+1659716392443	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile46cFEp"
+1659716393289	Marionette	INFO	Marionette enabled
+1659716393297	Marionette	INFO	Listening on port 62812
+Read port: 62812
+1659716393475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\svetl\\AppData\\Local\\Temp\\rust_mozprofile46cFEp\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716399128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716399805	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://wordstat.yandex.ru/js/_common.ru.js?b=236184237, line 1: unreachable code after return statement
+1659716411520	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wordstat.yandex.ru"
