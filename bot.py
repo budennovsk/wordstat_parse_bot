@@ -10,7 +10,7 @@ def start(message):
 
 @bot.message_handler(commands=['поиск'])
 def search_ya(message):
-    msg = bot.send_message(message.chat.id, "Введите текст для поиска")
+    msg = bot.send_message(message.chat.id, "Введите текст для ")
     bot.register_next_step_handler(msg, search)
 
 @bot.message_handler(content_types=['text'])
