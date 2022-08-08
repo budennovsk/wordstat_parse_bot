@@ -9,7 +9,6 @@ from auth import ya_password, ya_login
 import pickle
 
 browser = webdriver.Firefox()
-c = "f"
 
 browser.get('https://wordstat.yandex.ru')
 URL = browser.get('https://wordstat.yandex.ru')
