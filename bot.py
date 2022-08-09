@@ -15,7 +15,7 @@ def search_ya(message):
 
 @bot.message_handler(content_types=['text'])
 def text(message):
-    bot.send_message(message.chat.id, "Чо хотел")
+    bot.send_message(message.chat.id, "Чо??")
 
 def search(message):
     bot.send_message(message.chat.id, main_tg.res)
