@@ -1,6 +1,6 @@
 import telebot
 import main_tg
-API_KEY = '5465489989:AAGMpca8ww7GmlcF2ofDxFLO_qTZtliUUpM'
+API_KEY = '5527701613:AAGkNjE8XJFgcpE2_BB6FN3otNFjG0MnxIw'
 
 
 bot = telebot.TeleBot(API_KEY)
