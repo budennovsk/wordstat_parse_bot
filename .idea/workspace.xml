@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7d56e14-a4ee-42b5-9f83-d2eda987b744" name="Changes" comment="Testtest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buttons.py" beforeDir="false" />
     </list>
@@ -74,9 +75,16 @@
       <updated>1659968022960</updated>
       <workItem from="1659968024978" duration="2656000" />
       <workItem from="1659973158298" duration="1648000" />
+<<<<<<< HEAD
       <workItem from="1660046189502" duration="1795000" />
       <workItem from="1660636990132" duration="12000" />
       <workItem from="1660647239981" duration="1214000" />
+=======
+      <workItem from="1660046189502" duration="2637000" />
+      <workItem from="1660056393377" duration="1058000" />
+      <workItem from="1660543028523" duration="56000" />
+      <workItem from="1660556574660" duration="362000" />
+>>>>>>> 146a201e2e6f0b9a1574a9e2faeda780c2638d61
     </task>
     <task id="LOCAL-00001" summary="Testtest">
       <created>1659968613036</created>

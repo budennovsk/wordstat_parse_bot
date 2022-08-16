@@ -1,6 +1,7 @@
 import time
 
 import telebot
+<<<<<<< HEAD
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from telebot import types # для указание типов
@@ -27,6 +28,12 @@ URL = browser.get('https://wordstat.yandex.ru/')
 
 # аунтефикация через токен бота
 API_KEY = '5465489989:AAGMpca8ww7GmlcF2ofDxFLO_qTZtliUUpM'
+=======
+import main_tg
+API_KEY = '5527701613:AAGkNjE8XJFgcpE2_BB6FN3otNFjG0MnxIw'
+
+
+>>>>>>> 146a201e2e6f0b9a1574a9e2faeda780c2638d61
 bot = telebot.TeleBot(API_KEY)
 
 
