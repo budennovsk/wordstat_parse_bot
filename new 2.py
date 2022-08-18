@@ -5,6 +5,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 
 
+import settings
+
 
 from selenium.webdriver.common.by import By
 
@@ -28,7 +30,7 @@ URL = browser.get('https://wordstat.yandex.ru/')
 
 
 # аунтефикация через токен бота
-API_KEY = '5465489989:AAGMpca8ww7GmlcF2ofDxFLO_qTZtliUUpM'
+API_KEY = settings.APY_KEY
 bot = telebot.TeleBot(API_KEY)
 
 
