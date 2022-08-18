@@ -1,86 +1,24 @@
-import time
-
 import telebot
-from selenium.webdriver.common.keys import Keys
-from selenium import webdriver
-
-from selenium.webdriver.common.by import By
-
-from fake_useragent import UserAgent
-
-
-
-useragent = UserAgent()
-
-options = webdriver.ChromeOptions()
-
-# убирает надпись автоматическое тестоевое ПО
-options.add_experimental_option("excludeSwitches", ['enable-automation'])
-
-# изменяет мой юзер агент с использованием рандома и библиотеки
-options.add_argument(f'user-agent={useragent.random}')
-browser = webdriver.Chrome(options = options)
-
-browser.get('https://wordstat.yandex.ru/')
-URL = browser.get('https://wordstat.yandex.ru/')
-
-
-# аунтефикация через токен бота
+import main_tg
 API_KEY = '5465489989:AAGMpca8ww7GmlcF2ofDxFLO_qTZtliUUpM'
+
+
 bot = telebot.TeleBot(API_KEY)
-
-
-
-@bot.message_handler(commands=['start'])
+@bot.message_handler(commands=['старт'])
 def start(message):
-    bot.send_message(message.chat.id, "Здравствуйте, для аунтефикаций на wordstat.ru введите команду /l ")
+    bot.send_message(message.chat.id, 'Привет')
 
-@bot.message_handler(commands=['l'])
-def log(message):
-    msg = bot.send_message(message.chat.id, "Введи логин")
-    bot.register_next_step_handler(msg, login,)
-
-
-def login(message):
-    browser.find_element(By.XPATH, '/html/body/div[1]/table/tbody/tr/td[6]/table/tbody/tr[1]/td[2]/a/span').click()
-    email_input = browser.find_element(By.ID, 'b-domik_popup-username')
-    email_input.clear()
-    email_input.send_keys(message.text)
-
-
-@bot.message_handler(commands=['p'])
-def pas(message):
-    msg = bot.send_message(message.chat.id, "Введи пароль")
-    bot.register_next_step_handler(msg, password)
-
-
-def password(message):
-    browser.find_element(By.XPATH, '/html/body/div[1]/table/tbody/tr/td[6]/table/tbody/tr[1]/td[2]/a/span').click()
-    passwor_input = browser.find_element(By.ID,'b-domik_popup-password')
-    passwor_input.clear()
-    passwor_input.send_keys(message.text)
-    passwor_input.send_keys(Keys.ENTER)
-
-@bot.message_handler(commands=['s'])
-def sear(message):
-    otvet = bot.send_message(message.chat.id, "Введите текст для поиска")
-    bot.register_next_step_handler(otvet, search)
+@bot.message_handler(commands=['поиск'])
+def search_ya(message):
+    msg = bot.send_message(message.chat.id, "Введите текст для! ")
+    bot.register_next_step_handler(msg, search)
 
 @bot.message_handler(content_types=['text'])
 def text(message):
-    bot.send_message(message.chat.id, "Для поиска введи значение /s")
+    bot.send_message(message.chat.id, "Чо хотел")
 
 def search(message):
-    driver = browser.find_element(By.CLASS_NAME, 'b-form-input__input')
-    driver.clear()
-    driver.send_keys(message.text)
-    time.sleep(3)
-    driver.send_keys(Keys.ENTER)
-    time.sleep(3)
-    blocks = browser.find_element(By.CLASS_NAME,'b-word-statistics__table')
-    all_blocks = blocks.find_elements(By.CSS_SELECTOR, 'td[class*="b-word-statistics__td"]')
-    for i in (all_blocks)[:6]:
-        bot.send_message(message.chat.id, i.text)
+    bot.send_message(message.chat.id, main_tg.res)
 
 
 bot.polling()
