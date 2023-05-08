@@ -1,0 +1,8 @@
+geckodriver.log
+geckodriver.exe
+*.log
+.idea/
+.env/
+__pycache__/
+serega351351_cookies
+new/
